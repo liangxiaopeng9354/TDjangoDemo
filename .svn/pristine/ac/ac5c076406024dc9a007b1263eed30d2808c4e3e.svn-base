@@ -1,0 +1,32 @@
+
+import  unittest
+from demo import RunMain
+
+class TestMethod(unittest.TestCase):
+
+    @classmethod
+
+    def setUpClass(cls):
+        print("类执行之前的方法")
+
+    @classmethod
+    def tearDownClass(cls) -> None:
+        print('类执行之后的方法')
+
+    def setUp(self):
+        print('这个是开始执行的方法')
+
+
+    def tearDown(self):
+        print('这个是执行之后的方法')
+
+    def test_01(self):
+        print('这个是测试用例')
+    def test_02(self):
+        print('这个是测试用例2')
+if __name__ == '__main__':
+    unittest.main()
+
+
+
+

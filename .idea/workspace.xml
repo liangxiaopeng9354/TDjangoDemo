@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e364f6-4854-4ccb-9206-ac037630118e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bAiroL3tOgB0MqEIqjOeoCF2mK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo\main" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo\dataconfig" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo\data" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\venv\Lib" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo\test" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo\util" />
+      <recent name="D:\Users\lxp\PycharmProjects\Tdjango\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_eink">
+    <configuration name="data_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/dataconfig" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Users\lxp\PycharmProjects\Tdjango\demo\test\data_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/test/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operation_excel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lxp\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Users\lxp\PycharmProjects\Tdjango\demo\util\operation_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operation_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Users\lxp\PycharmProjects\Tdjango\demo\util\operation_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_eink" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/main/run_eink.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/main/run_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/util/send_mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testMethod2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\lxp\PycharmProjects\DjangoTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Users\lxp\PycharmProjects\Tdjango\demo\test\TestMethod2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tdjango" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Tdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.operation_excel" />
+      <item itemvalue="Python.testMethod2" />
+      <item itemvalue="Python.run_test" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.data_config" />
+      <item itemvalue="Python.run_eink" />
+      <item itemvalue="Python.send_mail" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_eink" />
+        <item itemvalue="Python.send_mail" />
+        <item itemvalue="Python.run_test" />
+        <item itemvalue="Python.data_config" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\lxp\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e364f6-4854-4ccb-9206-ac037630118e" name="Default Changelist" comment="" />
+      <created>1587743370594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587743370594</updated>
+      <workItem from="1587743560357" duration="7198000" />
+      <workItem from="1587821284029" duration="11245000" />
+      <workItem from="1588338249496" duration="12212000" />
+      <workItem from="1588514660416" duration="159000" />
+      <workItem from="1588514827818" duration="5468000" />
+      <workItem from="1588773741566" duration="11940000" />
+      <workItem from="1589002546626" duration="74171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="189" key="#Notifications" timestamp="1588081507655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="189" key="#Notifications/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588081507655" />
+    <state x="656" y="143" key="#TestMethod" timestamp="1588084346710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="143" key="#TestMethod/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588084346710" />
+    <state x="402" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588776206183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="402" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588776206183" />
+    <state x="695" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588086370927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588086370927" />
+    <state x="728" y="235" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588081542502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="235" key="#com.intellij.ide.macro.MacrosDialog/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588081542502" />
+    <state x="682" y="292" key="EnvironmentVariablesDialog" timestamp="1588081553880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="292" key="EnvironmentVariablesDialog/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588081553880" />
+    <state x="728" y="285" key="FileChooserDialogImpl" timestamp="1588516270239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="285" key="FileChooserDialogImpl/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588516270239" />
+    <state width="1894" height="330" key="GridCell.Tab.0.bottom" timestamp="1589808215460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.0.bottom/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589808215460" />
+    <state width="1637" height="429" key="GridCell.Tab.0.bottom/1920.35.1680.1010/0.0.1920.1040@1920.35.1680.1010" timestamp="1589166611837" />
+    <state width="1894" height="330" key="GridCell.Tab.0.center" timestamp="1589808215460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.0.center/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589808215460" />
+    <state width="1637" height="429" key="GridCell.Tab.0.center/1920.35.1680.1010/0.0.1920.1040@1920.35.1680.1010" timestamp="1589166611837" />
+    <state width="1894" height="330" key="GridCell.Tab.0.left" timestamp="1589808215460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.0.left/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589808215460" />
+    <state width="1637" height="429" key="GridCell.Tab.0.left/1920.35.1680.1010/0.0.1920.1040@1920.35.1680.1010" timestamp="1589166611837" />
+    <state width="1894" height="330" key="GridCell.Tab.0.right" timestamp="1589808215460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.0.right/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589808215460" />
+    <state width="1637" height="429" key="GridCell.Tab.0.right/1920.35.1680.1010/0.0.1920.1040@1920.35.1680.1010" timestamp="1589166611837" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1589509368290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589509368290" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1589509368290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589509368290" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1589509368290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589509368290" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1589509368290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589509368290" />
+    <state x="449" y="157" key="SettingsEditor" timestamp="1589721503750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="157" key="SettingsEditor/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589721503750" />
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1589532891008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589532891008" />
+    <state x="667" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589464568363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589464568363" />
+    <state x="818" y="133" width="809" height="798" key="find.popup" timestamp="1589504889922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="133" width="809" height="798" key="find.popup/1920.35.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589504889922" />
+    <state x="2499" y="153" width="566" height="775" key="find.popup/1920.35.1680.1010/0.0.1920.1040@1920.35.1680.1010" timestamp="1589162337419" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

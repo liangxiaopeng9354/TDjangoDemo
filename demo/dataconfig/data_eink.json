@@ -1,0 +1,5 @@
+{
+  "login":{"password": "232323","username": "232323"},
+  "indexPage":{"indexPage": 1,"pageSize": 10},
+  "indexPage2":{"companyReadTaskId2":"111","indexPage": 1,"pageSize": 10}
+}
