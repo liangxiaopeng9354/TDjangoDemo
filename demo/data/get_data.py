@@ -45,7 +45,7 @@ class GetData:
         if header == 'yes':
             header = {
                 "content-type" : "application/json;charset=UTF-8",
-                "Authorization" : "37a4fd6a1a3146009c8559bef52dabdd_35c980cb2c764ded84f497de2bd73d54",
+                "Authorization" : "729c67367e9e4a1c9f1bffcfbfe5a6a5_57179445e93a48708e6f2ea02b44241d",
                 "apt-version":"3.4"
             }
             return header

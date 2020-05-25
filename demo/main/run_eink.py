@@ -74,6 +74,7 @@ class RunTest:
                         else:
                             #self.data.write_value(i, '测试失败')
                             #print(case_name,'测试失败!!!!!!!!!!!!!!!!!!')
+                            print("失败的url", url)
                             print(res)
                             fail_count.append(i)
 
@@ -92,6 +93,7 @@ class RunTest:
                             # self.data.write_value(i, '测试失败')
                             #print(case_name, '测试失败!!!!!!!!!!!!!!!!!!')
                             fail_count.append(i)
+                            print("失败的url", url)
                             print(res)
                 else:
                     if depend_case_id_7 != None:
@@ -119,6 +121,7 @@ class RunTest:
                             #self.data.write_value(i, '测试失败')
                             #print(case_name,'测试失败!!!!!!!!!!!!!!!!!!')
                             fail_count.append(i)
+                            print("失败的url", url)
                             print(res)
 
                     else:
@@ -136,6 +139,7 @@ class RunTest:
                             # self.data.write_value(i, '测试失败')
                             #print(case_name, '测试失败!!!!!!!!!!!!!!!!!!')
                             fail_count.append(i)
+                            print("失败的url", url)
                             print(res)
 
             else:

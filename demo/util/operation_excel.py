@@ -11,7 +11,7 @@ class OperationExcel:
 
         else:
             self.file_name = '../dataconfig/data.xls'
-            self.sheet_id = 0
+            self.sheet_id = 1
 
         self.data = self.get_data()
     #获取sheets的内容
